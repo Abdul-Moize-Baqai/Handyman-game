@@ -1,0 +1,31 @@
+Game: game4
+Category Source: (hidden during play)
+Word: slug
+Word Length: 4
+
+Guesses (in order):
+1. a  → Wrong
+2. s  → Correct
+3. n  → Wrong
+4. e  → Wrong
+5. r  → Wrong
+6. t  → Wrong
+7. y  → Wrong
+
+Wrong Guesses List: a, n, e, r, t, y
+Wrong Guesses Count: 6
+Remaining Attempts at End: 0
+Result: Loss
+Points Earned: 0
+Total Score (after this round): 0
+
+Games Played: 2
+Wins: 0
+Losses: 2
+Win Rate: 0.00%
+
+Date & Time: 2025-10-31 14:53:19
+----------------------------------------
+Session Notes:
+- ASCII hangman final state index: 6
+- Progress trace recorded in guesses above.

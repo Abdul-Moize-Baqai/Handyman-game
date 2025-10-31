@@ -1,0 +1,35 @@
+Game: game3
+Category Source: (hidden during play)
+Word: javascript
+Word Length: 10
+
+Guesses (in order):
+1. a  → Correct
+2. s  → Correct
+3. f  → Wrong
+4. w  → Wrong
+5. e  → Wrong
+6. r  → Correct
+7. c  → Correct
+8. g  → Wrong
+9. n  → Wrong
+10. j  → Correct
+11. b  → Wrong
+
+Wrong Guesses List: f, w, e, g, n, b
+Wrong Guesses Count: 6
+Remaining Attempts at End: 0
+Result: Loss
+Points Earned: 0
+Total Score (after this round): 0
+
+Games Played: 1
+Wins: 0
+Losses: 1
+Win Rate: 0.00%
+
+Date & Time: 2025-10-31 11:53:29
+----------------------------------------
+Session Notes:
+- ASCII hangman final state index: 6
+- Progress trace recorded in guesses above.
