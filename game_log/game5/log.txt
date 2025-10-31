@@ -1,0 +1,30 @@
+Game: game5
+Category Source: (hidden during play)
+Word: evolution
+Word Length: 9
+
+Guesses (in order):
+1. a  → Wrong
+2. s  → Wrong
+3. d  → Wrong
+4. f  → Wrong
+5. g  → Wrong
+6. r  → Wrong
+
+Wrong Guesses List: a, s, d, f, g, r
+Wrong Guesses Count: 6
+Remaining Attempts at End: 0
+Result: Loss
+Points Earned: 0
+Total Score (after this round): 0
+
+Games Played: 3
+Wins: 0
+Losses: 3
+Win Rate: 0.00%
+
+Date & Time: 2025-10-31 15:12:33
+----------------------------------------
+Session Notes:
+- ASCII hangman final state index: 6
+- Progress trace recorded in guesses above.
